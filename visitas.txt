@@ -1,5 +1,5 @@
 {
 "inicio": NaN;
-"proyecto": 0;
-"contacto": 0;
+"proyecto": undefined;
+"contacto": undefined;
 }
