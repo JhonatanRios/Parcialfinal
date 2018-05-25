@@ -1,0 +1,14 @@
+a {
+    text-decoration: none;
+}
+
+.cabezera {
+    width: 100%;
+    height: 200px;
+    background: red;
+    color: white;
+    .nom {
+        font-size: 100px;
+        padding: 30px;
+    }
+}

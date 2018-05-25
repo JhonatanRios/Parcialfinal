@@ -1,0 +1,5 @@
+{
+    "inicio": 0;
+    "proyectos": 0;
+    "contacto": 0;
+}
