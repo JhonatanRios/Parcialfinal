@@ -1,0 +1,26 @@
+{
+  "name": "parcial_final",
+  "version": "1.0.0",
+  "description": "Parcial Final",
+  "main": "parcial.js",
+  "dependencies": {
+    "consolidate": "^0.15.1",
+    "express": "^4.16.3",
+    "handlebars": "^4.0.11",
+    "nodemon": "^1.17.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "./node_modules/.bin/nodemon killme.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhonatanRios/Parcialfinal.git"
+  },
+  "author": "Jhonatan Rios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JhonatanRios/Parcialfinal/issues"
+  },
+  "homepage": "https://github.com/JhonatanRios/Parcialfinal#readme"
+}
